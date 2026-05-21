@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+uploads/
+# Gmail token file (contains redirect_uri, access_token, refresh_token)
+gmail_tokens.json
